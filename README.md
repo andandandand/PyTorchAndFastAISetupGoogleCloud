@@ -1,4 +1,4 @@
-# PyTorch 1.0.0 setup for Google Cloud Platform
+# PyTorch 1.0.0 and FastAI 1.0.2 setup for Google Cloud Platform
 
 This guide explains how to set up Google Cloud Platform (GCP) to use PyTorch 1.0.0 and FastAI 1.0.2. At the end of this tutorial you will be able to use both with Jupyter Lab:
 
