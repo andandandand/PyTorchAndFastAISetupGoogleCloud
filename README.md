@@ -68,7 +68,16 @@ and open your browser at http://localhost:8080
 
 That's it! You will be able to access the preloaded notebooks and write new ones using PyTorch and FastAI. 
 
-![](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/jupyterlab-screenshot.png)
+![jupyterlab-screenshot](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/jupyterlab-screenshot.png)
+
+## IMPORTANT: REMEMBER TO STOP YOUR VM INSTANCE
+
+![stop-vm-instance](https://i.imgflip.com/17koi7.jpg)
+
+You will be charged (out of the credit given by Google or out of your own bank account) if you don't the instance while it's "idle" (e.g., not training a network). To stop an instance out of Google Cloud's online interface click:
+
+Compute Engine $\rightarrow$ VM Instances $\rightarrow$ ... icon $\rightarrow$ Stop
+
 
 ## References
 
