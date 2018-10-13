@@ -76,7 +76,7 @@ That's it! You will be able to access the preloaded notebooks and write new ones
 
 You will be charged (out of the credit given by Google or out of your own bank account) if you don't the instance while it's "idle" (e.g., not training a network). To stop an instance out of Google Cloud's online interface click:
 
-Compute Engine $\rightarrow$ VM Instances $\rightarrow$ ... icon $\rightarrow$ Stop
+> Compute Engine -> VM Instances -> "..." icon -> Stop
 
 
 ## References
