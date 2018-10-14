@@ -78,6 +78,7 @@ You will be charged (out of the credit given by Google or out of your own bank a
 
 > Compute Engine -> VM Instances -> "..." icon -> Stop
 
+![gcp-stop-instance](https://raw.githubusercontent.com/andandandand/images-for-colab-notebooks/master/gcp-stop-instance.png)
 
 ## References
 
